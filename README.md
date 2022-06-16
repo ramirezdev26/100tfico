@@ -1,2 +1,2 @@
 # 100tfico
-An SPA using JavaScript
+A SPA using JavaScript
